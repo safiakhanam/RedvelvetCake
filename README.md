@@ -1,3 +1,3 @@
 # RedvelvetCake
 
-This is the receipe of Cake
+This is my *first* receipe  to make the **Red velvet Cake**
